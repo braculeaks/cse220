@@ -6,3 +6,9 @@
 - MUNR Playlist: https://www.youtube.com/playlist?list=PLYv5ovgT8QC79CTFkvdHo7ZTcM0ZJ3ALA
 - MUNR Drive: https://drive.google.com/drive/folders/1_qWM8NTdkxlHhuUCH-wx9l8rmAP73Ixb
 - MUNR All in 1 SpreadSheet: https://docs.google.com/spreadsheets/d/1OvnieGPBuqBfoO97whtYIscADtx043WEqYa63Zlgnl4/edit?gid=573062321#gid=573062321
+- Student Notes (SMMNSO / Moo-ORG): https://github.com/MOO-ORG/CSE220/tree/main/Extra
+- PSets (SMMNSO / MOO-ORG): https://github.com/MOO-ORG/CSE220/tree/main/Questions
+- https://drive.google.com/drive/folders/1SDNbiOJVAJhF9Ioqt2kx82QAYZis7Cbm
+
+### Sources:
+https://docs.google.com/spreadsheets/d/1OvnieGPBuqBfoO97whtYIscADtx043WEqYa63Zlgnl4/edit?gid=573062321#gid=573062321
