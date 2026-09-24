@@ -9,6 +9,9 @@
 - Student Notes (SMMNSO / Moo-ORG): https://github.com/MOO-ORG/CSE220/tree/main/Extra
 - PSets (SMMNSO / MOO-ORG): https://github.com/MOO-ORG/CSE220/tree/main/Questions
 - https://drive.google.com/drive/folders/1SDNbiOJVAJhF9Ioqt2kx82QAYZis7Cbm
+- KKS Codes: https://github.com/isaamrat/CSE220-Data-Structure-Materials
+- MAHR Drive: https://drive.google.com/drive/folders/1Q5CNVW4riPvp_L6dAXGBSTVX0lDN23WY
+    - Not Recommened to go through teacher's Codes.... Just code it up yourself bruh.... tf you waiting on
 
 ### Videos
 - Summer 2026: https://www.youtube.com/playlist?list=PLByDBrokASUhRqo9-GtNdFbQTQYRX28DH
