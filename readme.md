@@ -1,5 +1,9 @@
 ### Resources
 - Outline: https://docs.google.com/document/d/1MoFJiBQLEAPtRSiXDvFR7nA9PKlhvTlxwHwtbrGNXOw/edit?tab=t.0
+- Official Lab Exam Questions: https://drive.google.com/drive/u/8/folders/1S2OolN7Fn4HKVxE28b2Css4HbijucNLT
+- Official Past Year Questions: https://drive.google.com/drive/u/8/folders/1OfSthUYtZB26Q7b2GiMtd3V7zl2lzMDf
+- MUNR Past Year Questions: https://drive.google.com/drive/folders/1N4r56k2m4pouv3y9GSUt-oCZhmgcJVfm
+- MUNR PSets: https://drive.google.com/drive/folders/1RMoXnEF8FJfniXlYNv_0cv6ngF3OOryO
 - Lesson Plan / Official Outline Summer 25: https://docs.google.com/spreadsheets/d/1GRfHLKw6z0bTJV8VSIEGM1f1vqjdDPAdbalsMIm8F2o/edit?gid=0#gid=0
 - Official Book: https://github.com/zabermd/Data-Structures-and-their-Use-in-Elementary-Algorithms/tree/main
 - Central Lecture Slides: https://drive.google.com/drive/folders/1ixiDVUMyVXsNFgDGUbkId1EheKWiBuV2
